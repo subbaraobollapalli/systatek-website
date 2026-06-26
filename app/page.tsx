@@ -22,6 +22,11 @@ const content = {
         "Enterprise-grade software tailored to your business requirements.",
     },
     {
+      title: "ERP Consulting",
+      description:
+        "We provide end to end consultancy services for all your ERP needs.  we specialize in SME business requiements gathering and mappping with industry standard ERP applications.",
+    },
+    {
       title: "Cloud Solutions",
       description:
         "AWS, Azure, cloud migration, DevOps, and scalable infrastructure.",
