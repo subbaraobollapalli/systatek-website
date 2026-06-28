@@ -2,7 +2,7 @@ const content = {
   companyName: "Systatek",
 
   hero: {
-    title: "Custom Software, Cloud & AI Solutions for Growing Businesses",
+    title: "Custom Software,ERP, Data & AI Solutions for Growing Businesses",
     subtitle:
       "We help businesses improve productivity, streamline operations, and accelerate growth through custom software development, cloud computing, AI, automation, and mobile applications.",
     primaryButton: "Schedule Consultation",
