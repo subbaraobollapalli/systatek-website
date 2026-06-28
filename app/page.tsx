@@ -27,9 +27,9 @@ const content = {
         "We provide end to end consultancy services for all your ERP needs.  we specialize in SME business requiements gathering and mappping with industry standard ERP applications.",
     },
     {
-      title: "Cloud Solutions",
+      title: "Data Consulting and Migration",
       description:
-        "AWS, Azure, cloud migration, DevOps, and scalable infrastructure.",
+        " AI managed data definitions and cleansing of data for all your ERP needs.",
     },
     {
       title: "AI & Automation",
