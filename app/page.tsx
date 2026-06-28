@@ -6,7 +6,7 @@ const content = {
     subtitle:
       "We help businesses improve productivity, streamline operations, and accelerate growth through custom software development, cloud computing, AI, automation, and mobile applications.",
     primaryButton: "Schedule Consultation",
-    secondaryButton: "Explore Services",
+    secondaryButton: "Explore Our Offerings",
   },
 
   about: {
